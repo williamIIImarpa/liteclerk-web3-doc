@@ -2,6 +2,8 @@
 
 Welcome to the **Solana Token Launch** documentation! This guide will help you create, list, and launch your token on the Solana blockchain.
 
+![Solana Logo](assets/solana-logo.png)
+
 ## What You'll Learn:
 - How to **create a token** on Solana
 - How to **set up liquidity** for your token
