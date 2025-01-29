@@ -14,3 +14,5 @@ Let's get started!
 [Learn how to create a Solana token](token-creation.md)  
 [Set up liquidity for your token](liquidity-setup.md)  
 [Launch your token into the market](token-launch.md)
+[Launch your token into the market with Pump.fun - a no-code platform for creating SPL-tokens](pumpdotfun.md)
+
