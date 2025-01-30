@@ -15,7 +15,8 @@ Let's get started!
 [Set up liquidity for your token](liquidity-setup.md)  
 [Launch your token into the market](token-launch.md)
 
-## [Launch your token into Pump.fun](pumpdotfun.mdmd)
+## [Launch your token into Pump.fun](pumpdotfun.md)
 <img src="assets/pumpfunlogo.png" alt="Solana Logo" height="auto">
+
 
 
