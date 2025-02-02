@@ -47,10 +47,19 @@ spl-token create-token
 
 >This will return the token's mint address.
 
-### 6. Create a Token Account
+### 6. Create a token Account
 To hold the newly created token, create an associated token account:
 
 ```bash
 spl-token create-account <TOKEN_MINT_ADDRESS>
 
 > Replace <TOKEN_MINT_ADDRESS> with the address returned in the previous step.
+
+
+7. Mint Tokens
+Now, mint some tokens to your wallet:
+
+```bash
+spl-token mint <TOKEN_MINT_ADDRESS> 1000
+
+> This mints 1000 tokens to your account.
