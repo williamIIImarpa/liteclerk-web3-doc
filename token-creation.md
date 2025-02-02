@@ -71,4 +71,14 @@ Verify your token balance using:
 ```bash
 spl-token balance <TOKEN_MINT_ADDRESS>
 
+### 9. Enable Token Transfers
+To allow transfers, disable mint authority (optional):
 
+```bash
+spl-token revoke <TOKEN_MINT_ADDRESS> --mint
+
+### 10. Transfer Tokens
+Send tokens to another wallet:
+
+```bash
+spl-token transfer <TOKEN_MINT_ADDRESS> <AMOUNT> <RECIPIENT_WALLET_ADDRESS>
