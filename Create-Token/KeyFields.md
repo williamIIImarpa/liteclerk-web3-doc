@@ -1,6 +1,6 @@
 # Key Fields for Token Creation
 
-<img src="/assets/XTERIUM-Landing.png" alt="XTERIUM-Landing" widht="300px">
+<img src="/assets/Xterium Landing-Page.png" alt="XTERIUM-Landing" widht="300px">
 
 When creating a token on the Polkadot network, whether through an EVM-compatible parachain (such as Moonbeam or Astar) or a custom parachain, several key fields must be defined to ensure your token is functional, secure, and integrated properly. These fields generally follow ERC-20 standards for tokens created on EVM-compatible parachains or similar standards for custom parachains.
 
