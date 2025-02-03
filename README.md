@@ -21,7 +21,7 @@ This guide explains how to create a token on the Polkadot network. Polkadot's ar
 ---
 
 ## Table of Contents
-1. [Introduction](Introduction.md)
+1. [Introduction](/Create-Token/Introduction.md)
 2. [Key Fields for Token Creation](KeyFields.md)
 3. [Steps to Create a Token](Steps.md)
     - [Option 1: Using Moonbeam (EVM-Compatible Parachain)](MoonbeamOption.md)
