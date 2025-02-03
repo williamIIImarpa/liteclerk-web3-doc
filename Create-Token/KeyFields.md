@@ -1,5 +1,5 @@
 
-<img src="/assets/XTERIUM-Landing.png" alt="XTERIUM-Landing" widht="300px">
+<img src="/assets/Xterium Landing-Page.png" alt="XTERIUM-Landing" widht="300px">
 
 # Key Fields for Token Creation
 
