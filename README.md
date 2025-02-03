@@ -27,3 +27,6 @@ This guide explains how to create a token on the Polkadot network. Polkadot's ar
 4. [Example Smart Contract Code](SmartContractCode.md)
 5. [Tools and Resources](ToolsAndResources.md)
 6. [Conclusion](Conclusion.md)
+
+
+Created by - 
