@@ -34,3 +34,5 @@ This guide explains how to create a token on the Polkadot network. Polkadot's ar
 
 #### [Block scanner](https://xode.net/blockscanner)
 Xode Blockchain integrates indexing and block scanning utilities through Subsquid, providing efficient data indexing and querying capabilities. This allows developers and users to easily access and analyze blockchain data, improving the overall user experience and enabling more advanced applications and analytics on the network.
+
+Angelo tanginamo
