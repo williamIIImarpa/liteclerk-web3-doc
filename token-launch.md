@@ -17,10 +17,3 @@ Once you’ve created the token and set up liquidity, it’s time to launch your
 If you have a total of 1 billion tokens and you want to offer 90% of them for sale, mint the following:
 ```bash
 spl-token mint <TOKEN_ADDRESS> 900000000 <SALE_ACCOUNT_ADDRESS>
-
-## 2. Create a Liquidity Pool on a DEX
- You can use Raydium, Serum, or another Solana-based DEX that supports liquidity pools.
- 
-
-
-
