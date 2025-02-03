@@ -1,4 +1,5 @@
 ## Key Fields for Token Creation
 
-<img src="/assets/XTERIUM-Landing" alt="XTERIUM-Landing" widht="300px">
+<img src="/assets/XTERIUM-Landing.png" alt="XTERIUM-Landing" widht="300px">
+deb
 
