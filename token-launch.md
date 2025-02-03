@@ -19,4 +19,8 @@ If you have a total of 1 billion tokens and you want to offer 90% of them for sa
 spl-token mint <TOKEN_ADDRESS> 900000000 <SALE_ACCOUNT_ADDRESS>
 
 ## 2. Create a Liquidity Pool on a DEX
+ You can use Raydium, Serum, or another Solana-based DEX that supports liquidity pools.
+ 
+
+
 
