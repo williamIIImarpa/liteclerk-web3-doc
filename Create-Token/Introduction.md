@@ -15,12 +15,10 @@ Polkadot offers two main paths for token creation:
 
 ## Overview of the Process
 
-<p>
 This guide will walk you through the steps required to create a token on the Polkadot network. Depending on your needs, you can either:
-</p>
-    - Create a token using an EVM-compatible parachain (e.g., Moonbeam or Astar).
-    - Build a custom parachain and create tokens directly on your own chain.
-<br>
-<p>
+
+- Create a token using an EVM-compatible parachain (e.g., Moonbeam or Astar).
+- Build a custom parachain and create tokens directly on your own chain.
+
+
 By the end of this guide, you will understand the key fields and steps needed to successfully create a token on Polkadot, including example code for smart contracts and tools you can leverage.
-</p>
