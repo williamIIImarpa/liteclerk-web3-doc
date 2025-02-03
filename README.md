@@ -1,4 +1,4 @@
-# Creating a Token on Polkadot
+# Creating a Token on XODE
 
 This guide explains how to create a token on the Polkadot network. Polkadot's architecture allows tokens to be created either as part of a custom parachain or as a smart contract on an EVM-compatible parachain like Moonbeam or Astar Network.
 
