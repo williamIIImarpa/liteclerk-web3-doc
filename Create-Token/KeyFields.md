@@ -1,6 +1,7 @@
 
 <img src="/assets/Xterium Landing-Page.png" alt="XTERIUM-Landing" widht="300px">
 <img src="/assets/import-wallet.png" alt="import-wallet pic" widht="300px">
+<img src="/assets/Add-a-wallet.png" alt="Add a wallet pic" widht="300px">
 
 # Key Fields for Token Creation
 
