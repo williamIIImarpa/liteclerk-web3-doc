@@ -1,3 +1,11 @@
+## Table of contents
+- [Launching token on polkadot](#launching-token-on-polkadot)
+- [Steps to launch a token on polkadot](#steps-to-launch-a-token-on-polkadot)
+- [How to set this up](#how-to-set-this-up)
+- [When will the market buy](#when-will-the-market-buy)
+- [how to get the proceeds from token sales on polkadot](#how-to-get-the-proceeds-from-token-sales-on-polkadot)
+- [Steps to structure token sales on polkadot and access proceeds](#steps-to-structure-token-sales-on-polkadot-and-access-proceeds)
+
 # Launching token on polkadot
 
 <p> Launching a token on Polkadot involves creating and deploying a new cryptocurrency or digital asset on the Polkadot blockchain network. Polkadot is a multi-chain platform that allows different blockchains to interoperate and share information securely. <p>
@@ -48,3 +56,29 @@
 
 4. Investor Confidence: 
 -A credible team, clear roadmap, and strong market-making strategies can drive investor interest.
+
+5. Governance and incentives:
+-Governance rights and incentives like staking, airdrops, and yield farming attract investors and long-term holders, fostering adoption and active participation.
+
+# How to get the proceeds from token sales on polkadot
+<p> To successfully manage the proceeds from token sales on Polkadot, it’s essential to have a structured process for conducting the sale and accessing the funds generated. Below, I outline how you can set up your token sale and access the proceeds effectively. <p>
+
+# Steps to Structure Token Sales on Polkadot and Access Proceeds
+1. Establish Token Sale Parameters
+* Define Tokenomics: Set the total token supply, allocation strategies, pricing structure, and vesting schedules for stakeholders such as team members, investors, and advisors.
+* Select Sale Type: Choose between a public sale, private sale, or a hybrid approach, depending on your fundraising strategy.
+
+2. Create Smart Contracts
+* Token Contract Development: Build a smart contract that outlines the token’s key attributes, including its fungibility, total supply, and other specifications.
+
+3. Deploy Smart Contracts
+* Testing Phase: Deploy your smart contracts on Polkadot’s testnet (e.g., Westend) to thoroughly test for functionality and performance.
+* Security Audit: Engage a trusted blockchain security firm to audit your contracts, identifying and addressing any security vulnerabilities.
+
+4. Execute the Token Sale
+* Launch Sale: Publicly announce the token sale’s launch date and activate the smart contract to begin accepting contributions.
+* Track Sales Activity: Monitor transactions as participants purchase tokens, with the smart contract handling fund allocations according to predefined rules.
+
+5. Post-Sale Token Distribution
+* Automated Distribution: Once the sale concludes, tokens should be automatically distributed to users based on their contributions recorded in the sale smart contract.
+* Redeem Process: If tokens need to be claimed by users, make the process straightforward through a redemption function in the contract.
