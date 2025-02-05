@@ -1,3 +1,11 @@
+## Table of contents
+- [Launching token on polkadot](#launching-token-on-polkadot)
+- [Steps to launch a token on polkadot](#steps-to-launch-a-token-on-polkadot)
+- [How to set this up](#how-to-set-this-up)
+- [When will the market buy](#when-will-the-market-buy)
+- [how to get the proceeds from token sales on polkadot](#how-to-get-the-proceeds-from-token-sales-on-polkadot)
+- [Steps to structure token sales on polkadot and access proceeds](#steps-to-structure-token-sales-on-polkadot-and-access-proceeds)
+
 # Launching token on polkadot
 
 <p> Launching a token on Polkadot involves creating and deploying a new cryptocurrency or digital asset on the Polkadot blockchain network. Polkadot is a multi-chain platform that allows different blockchains to interoperate and share information securely. <p>
