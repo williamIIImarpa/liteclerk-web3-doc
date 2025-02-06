@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Introduction 
 
 ## Table of Contents
@@ -28,3 +29,6 @@
  - **Create or Import a Wallet**: Follow the on-screen instructions to create a new wallet or import an existing one using your seed phrase.   
  - **Connect to a Polkadot Blockchain**: Select the desired Polkadot blockchain (e.g., Xode) to connect to.
  - **Start Using Your Wallet**: You can now send, receive, and manage your Polkadot-based assets.
+=======
+### START HERE
+>>>>>>> 6ca20d2df8bb4905d36055beb3ad630d60404e4f
